@@ -1,0 +1,31 @@
+Command b'ls'by127.0.0.1
+Command b'where am i'by127.0.0.1
+Command b'who am i'by127.0.0.1
+Command b'where am i'by127.0.0.1
+Command b'ls'by127.0.0.1
+Command b'where am i'by127.0.0.1
+Command b'who am i'by127.0.0.1
+Command b'exit'by127.0.0.1
+2024-12-28 15:23:24,480 - 127.0.0.1, navaneeth, robovitics
+2024-12-28 15:23:31,256 - Command b'h\x7f\x7f\x7fls' by 127.0.0.1
+2024-12-28 15:23:33,379 - Command b'ls' by 127.0.0.1
+2024-12-28 15:23:38,927 - Command b'h\x7f\x7fwhere am i' by 127.0.0.1
+2024-12-28 15:23:40,354 - Command b'where am i' by 127.0.0.1
+2024-12-28 15:23:41,651 - Command b'who am i' by 127.0.0.1
+2024-12-28 16:14:32,283 - 127.0.0.1, navaneeth, robovitcs
+Command b'start'by127.0.0.1
+Command b'restart'by127.0.0.1
+Command b'w\x7fls'by127.0.0.1
+Command b'ls'by127.0.0.1
+Command b'ls'by127.0.0.1
+Command b'start'by127.0.0.1
+Command b'restart'by127.0.0.1
+Command b'start'by127.0.0.1
+Command b'ls'by127.0.0.1
+Command b'restart'by127.0.0.1
+Command b'ls\x7f\x7f\x7fs\x7f\x7f\x7f'by127.0.0.1
+Command b'start'by127.0.0.1
+Command b'ls'by127.0.0.1
+Command b'restart'by127.0.0.1
+Command b'start'by127.0.0.1
+Command b'retsr\x7fa\x7f\x7f\x7f\x7f\x7f'by127.0.0.1
